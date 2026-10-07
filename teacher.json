@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "repo": "prova-escola-ti",
+  "repo_url": "https://github.com/RaulLopesJ/prova-escola-ti",
+  "exam_dir": "exams/dummy-exam",
+  "track": "dummy-hello-world",
+  "issue": 1,
+  "issue_url": "https://github.com/RaulLopesJ/prova-escola-ti/issues/1",
+  "gerado_em": "2026-10-07T19:46:29+00:00",
+  "fechada_em": "2026-10-07T19:45:41Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "RaulLopesJ",
+    "ra": "23141747",
+    "nome": "Raul Lopes Jorge"
+  },
+  "variante": {
+    "slug": "prova-escola-ti",
+    "EXAM_DIR": "exams/dummy-exam",
+    "PREFIXO": "Turma",
+    "RAZAO_PREFERENCIAL": 2,
+    "PORTA_API": 9202
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T11:58:43Z",
+    "ultimo_push": "2026-10-07T08:53:01-03:00"
+  },
+  "commits": {
+    "total": 2,
+    "autores": [
+      "RaulLopesJ"
+    ],
+    "primeiro": "2026-10-07T08:50:50-03:00",
+    "ultimo": "2026-10-07T08:53:01-03:00",
+    "fora_da_janela": 2
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 30
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
